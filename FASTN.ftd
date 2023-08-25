@@ -1,18 +1,5 @@
--- import: fastn
+-- import: fastn as f
 
--- fastn.package: rutukapate.github.io/pepi2-quote
-favicon: /-/rutukapate.github.io/pepi2-quote/favicon.ico
+-- f.package: Pepi2-Quote
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
-
--- fastn.auto-import: rutukapate.github.io/pepi2-quote/FASTN/ds
--- fastn.auto-import: rutukapate.github.io/pepi2-quote/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- f.dependency: fastn-community.github.io/lobster-typography as my-types
