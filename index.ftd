@@ -6,7 +6,7 @@
 -- pepi.page:
 title: ~Alexander
 body: There is nothing impossible to those who will try.
-img1: $assets.files.author.jpg
+img1: $assets.files.alexander.jpg
 text-color: $pepi.monochrome-dark
 bg-color: $pepi.monochrome-light
 -- pepi.main: Daily Quote
