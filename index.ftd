@@ -3,12 +3,11 @@
 
 -- ftd.column:
 
--- pepi.page:
-title: ~Alexander
-body: There is nothing impossible to those who will try.
+-- pepi.page: ~Alexander
 img1: $assets.files.alexander.jpg
-text-color: $pepi.monochrome-dark
-bg-color: $pepi.monochrome-light
+
+There is nothing impossible to those who will try.
+
 -- pepi.main: Daily Quote
 
 -- end: ftd.column
